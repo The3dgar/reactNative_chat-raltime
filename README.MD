@@ -15,7 +15,7 @@ Snaps:
 
 ![User1](./assets/user1.jpeg)
 
-3. Message with User 1:
+3. Message with User 2:
 
 ![User1](./assets/user2.jpeg)
 
